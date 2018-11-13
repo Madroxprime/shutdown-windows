@@ -1,0 +1,79 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "https://github.com/andersj5-cbe/shutdown-windows",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "https://github.com/andersj5-cbe/shutdown-windows",
+        "spec": "git+https://github.com/andersj5-cbe/shutdown-windows.git",
+        "type": "hosted",
+        "hosted": {
+          "type": "github",
+          "ssh": "git@github.com:andersj5-cbe/shutdown-windows.git",
+          "sshUrl": "git+ssh://git@github.com/andersj5-cbe/shutdown-windows.git",
+          "httpsUrl": "git+https://github.com/andersj5-cbe/shutdown-windows.git",
+          "gitUrl": "git://github.com/andersj5-cbe/shutdown-windows.git",
+          "shortcut": "github:andersj5-cbe/shutdown-windows",
+          "directUrl": "https://raw.githubusercontent.com/andersj5-cbe/shutdown-windows/master/package.json"
+        }
+      },
+      "C:\\Users\\andersj5\\Desktop\\Programming\\Node\\student-monitoring"
+    ]
+  ],
+  "_from": "git+https://github.com/andersj5-cbe/shutdown-windows.git",
+  "_id": "shutdown-windows@1.0.0",
+  "_inCache": true,
+  "_location": "/shutdown-windows",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "https://github.com/andersj5-cbe/shutdown-windows",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "https://github.com/andersj5-cbe/shutdown-windows",
+    "spec": "git+https://github.com/andersj5-cbe/shutdown-windows.git",
+    "type": "hosted",
+    "hosted": {
+      "type": "github",
+      "ssh": "git@github.com:andersj5-cbe/shutdown-windows.git",
+      "sshUrl": "git+ssh://git@github.com/andersj5-cbe/shutdown-windows.git",
+      "httpsUrl": "git+https://github.com/andersj5-cbe/shutdown-windows.git",
+      "gitUrl": "git://github.com/andersj5-cbe/shutdown-windows.git",
+      "shortcut": "github:andersj5-cbe/shutdown-windows",
+      "directUrl": "https://raw.githubusercontent.com/andersj5-cbe/shutdown-windows/master/package.json"
+    }
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "git+https://github.com/andersj5-cbe/shutdown-windows.git#2941aff0844ccd499d73969e39e01d025ef6a9f5",
+  "_shasum": "5824ad51e2766f073f47cfdfcc87392fedccf572",
+  "_shrinkwrap": null,
+  "_spec": "https://github.com/andersj5-cbe/shutdown-windows",
+  "_where": "C:\\Users\\andersj5\\Desktop\\Programming\\Node\\student-monitoring",
+  "author": {
+    "name": "John Anderson"
+  },
+  "dependencies": {},
+  "description": "shutdown windows computers by name",
+  "devDependencies": {},
+  "gitHead": "2941aff0844ccd499d73969e39e01d025ef6a9f5",
+  "keywords": [
+    "shutdown",
+    "windows",
+    "computer",
+    "remote"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "shutdown-windows",
+  "optionalDependencies": {},
+  "readme": "# shutdown-windows\r\n",
+  "readmeFilename": "README.md",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
